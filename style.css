@@ -1,0 +1,44 @@
+header{
+    color:#ff0000;
+}
+body{
+    background-color:#c9e9ff ;
+    font-family:victorian let;
+
+}
+h1{
+    text-align: center;
+}
+.shit{
+    text-align: center;
+}
+
+main h2{
+
+}
+.usa{
+    color:#005c9c;
+    text-align: center;
+}
+.red{
+    color:#a80505;
+    font-size: 25px;
+}
+.blue{
+    color:#0a0099;
+    font-size: 25px;
+}
+.canada{
+    color:#eb0225;
+    text-align: center;    
+}
+table{
+    border:1px solid red;
+    border-collapse: collapse;
+}
+tr{
+    border: 1px solid red;
+}
+td{
+    border:1px solid red;
+}
